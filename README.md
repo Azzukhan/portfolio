@@ -36,7 +36,7 @@ The portfolio website is designed to highlight Kaushal's expertise as a software
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shkaushal/portfolio.git
+   git clone https://github.com/Azzukhan/portfolio.git
    cd portfolio
 
 2. Open index.html in your browser to view the website locally.
@@ -47,7 +47,3 @@ The portfolio website is designed to highlight Kaushal's expertise as a software
     c. Add or edit JavaScript in assets/js/main.js.
 
 4. Deploy the website using GitHub Pages or any static hosting service.
-
-## Licence
-This project is licensed under the MIT License.
-Made with ❤️ by Kaushal Kishor Sharma.
