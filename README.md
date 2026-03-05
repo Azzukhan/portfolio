@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This repository contains the source code for Kaushal Kishor Sharma's personal portfolio website. The website showcases professional experience, technical skills, projects, and contact information.
+This repository contains the source code for Mohammed Afjal Khan's personal portfolio website. The website showcases professional experience, technical skills, projects, and contact information.
 
 ## Table of Contents
 
@@ -12,11 +12,11 @@ This repository contains the source code for Kaushal Kishor Sharma's personal po
 
 ## Overview
 
-The portfolio website is designed to highlight Kaushal's expertise as a software engineer specializing in backend development, cloud technologies, and scalable systems. It includes sections for an "About Me," resume, skills, projects, and contact information.
+The portfolio website is designed to highlight Mohammed's expertise as a software engineer specialising in Python, Django, FastAPI, React, and cloud technologies. It includes sections for About Me, Resume, Skills, Projects, and Contact.
 
 ## Features
 
-- **Responsive Design**: Optimized for desktop and mobile devices.
+- **Responsive Design**: Optimised for desktop and mobile devices.
 - **Dynamic Animations**: Smooth scrolling and animations powered by AOS (Animate On Scroll).
 - **Downloadable Resume**: Visitors can download the resume directly from the website.
 - **Project Showcase**: Highlights key projects with descriptions and links to GitHub repositories.
@@ -38,12 +38,19 @@ The portfolio website is designed to highlight Kaushal's expertise as a software
    ```bash
    git clone https://github.com/Azzukhan/portfolio.git
    cd portfolio
+   ```
 
-2. Open index.html in your browser to view the website locally.
+2. Open `index.html` in your browser to view the website locally.
 
 3. To make changes:
     a. Modify the HTML files in the root directory.
-    b. Update styles in assets/css/style.css.
-    c. Add or edit JavaScript in assets/js/main.js.
+    b. Update styles in `assets/css/style.css`.
+    c. Add or edit JavaScript in `assets/js/main.js`.
 
 4. Deploy the website using GitHub Pages or any static hosting service.
+
+## Licence
+
+This project is licensed under the MIT License.
+
+Made with ❤️ by Mohammed Afjal Khan.
